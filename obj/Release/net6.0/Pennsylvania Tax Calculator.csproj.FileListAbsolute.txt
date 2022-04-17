@@ -1,0 +1,15 @@
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\bin\Release\net6.0\Pennsylvania Tax Calculator.exe
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\bin\Release\net6.0\Pennsylvania Tax Calculator.deps.json
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\bin\Release\net6.0\Pennsylvania Tax Calculator.runtimeconfig.json
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\bin\Release\net6.0\Pennsylvania Tax Calculator.dll
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\bin\Release\net6.0\Pennsylvania Tax Calculator.pdb
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\Pennsylvania Tax Calculator.csproj.AssemblyReference.cache
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\Pennsylvania Tax Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\Pennsylvania Tax Calculator.AssemblyInfoInputs.cache
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\Pennsylvania Tax Calculator.AssemblyInfo.cs
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\Pennsylvania Tax Calculator.csproj.CoreCompileInputs.cache
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\Pennsylvania Tax Calculator.dll
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\refint\Pennsylvania Tax Calculator.dll
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\Pennsylvania Tax Calculator.pdb
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\Pennsylvania Tax Calculator.genruntimeconfig.cache
+C:\Users\alevandoski\Downloads\Visual Studio Projects\Pennsylvania Tax Calculator\obj\Release\net6.0\ref\Pennsylvania Tax Calculator.dll

@@ -1,0 +1,20 @@
+﻿// Program for calculating paycheck taxes for Scranton, PA
+Console.WriteLine("Welcome to the Paycheck Calculator.");
+Console.WriteLine("Please enter your gross pay without a $ sign.");
+double grossPay = Convert.ToDouble(Console.ReadLine());
+double federalTax = grossPay * .1200;
+double fica = grossPay * .1240;
+double incomeTax = grossPay * .0307;
+double localTax = grossPay * .03400;
+double medicare = grossPay * .0145;
+double totalTax = federalTax + incomeTax + localTax + fica + medicare;
+Console.WriteLine("Your Gross Pay was $" + grossPay);
+Console.WriteLine("Your Federal taxes are $" + federalTax);
+Console.WriteLine("Your FICA taxes are $" + fica);
+Console.WriteLine("Your State taxes are $" + incomeTax);
+Console.WriteLine("Your Medicare taxes are $" + medicare);
+Console.WriteLine("Your total taxes are $" + totalTax);
+double netPay = grossPay - totalTax;
+Console.WriteLine("Your Net Pay is $" + netPay);
+Console.WriteLine("You should put away $ " + totalTax + " to pay taxes later");
+Console.ReadLine();
